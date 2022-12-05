@@ -1,0 +1,10 @@
+video {
+    border: 10px solid red;
+}
+audio {
+    background-color: green;
+}
+.move {
+    display: flex;
+    justify-content: end;
+}
